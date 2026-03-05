@@ -1,0 +1,26 @@
+# dependencies
+/vendor/
+
+# composer
+composer.lock
+
+# environment
+.env
+
+# logs
+*.log
+
+# cache
+/cache/
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# node (если вдруг будет)
+node_modules/
